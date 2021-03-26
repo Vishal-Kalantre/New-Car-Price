@@ -1,0 +1,112 @@
+Dataset link : 
+https://www.kaggle.com/prassanth/new-cars-price-2019
+
+######### FEATURE DESCRIPTION ############
+
+Model - Car model names
+
+MRSP - Selling price in dollars
+
+Engine - Type of engine used in car
+
+EPA Classification - EPA size classes (Mini compact, Midsize ,, Compact, Mid-Size, SUV)
+
+Style Name - Special features for each model (Drivetrain, Transmission, Roof, Doors, extra features) ****
+
+Drivetrain - Types of drivetrain(Conveys power from the engine to wheels) used (FWD, RWD , AWD, 4WD )
+
+Passenger Capacity - Number of people who can be seated
+
+Passenger Doors - Number of doors in a car
+
+Body Style - Body style of the car
+
+Transmission - Type of transmission used. (Not req -- Trans type, Trans Description cont.)
+
+Base Curb Weight - Total weight of the vehicle in pounds
+
+Passenger Volume - Volume of space available for passengers
+
+Wheelbase - Distance between the centers of the front and rear wheels
+
+Track Width Front - Distance between the centerline of two front wheels
+
+Height Overall - Overall height of the car in inches
+
+Fuel Tank Capacity, Approx(gal) - Fuel tank capacity in gallon
+
+SAE Net Torque @ RPM - Net optimum torque at a certain range of RPM
+
+Fuel System - Type of fuel injection used in car
+
+SAE Net Horsepower @ RPM - Horsepower produced at engine crankshaft(without transmission losses)
+
+Displacement - Measure of the cylinder volume swept by all of the pistons (in liters)
+
+Trans Description - Type of transmission used in car
+
+Trans Type - Number of gears in the transmission
+
+Brake Type - Type of brake used in car
+
+Suspension type Front - Type of Suspension used in car front wheels
+
+Suspension type Rear - Type of Suspension used in car rear wheels
+
+Air Bag Frontal Driver - Drivers Airbag(Y/N)
+
+Air Bag Frontal Passenger - Front passenger Airbag(Y/N)
+
+Air Bag-Side Body-Front - Airbags in front side of the car(Y/N)
+
+Air Bag-Side Body-Rear - Airbags in rear side of the car(Y/N)
+
+Air Bag Side Head-Front - Side airbags to protect head for front row(Y/N)
+
+Air Bag Side Head-Rear - Side airbags to protect head for rear row(Y/N)
+
+Brakes -ABS - Is Antilock bracking system is present(Y/N)
+
+Child Safety Rear Door Locks - Child safety door locks(Y/N)
+
+Daytime Running Lights - (Y/N)
+
+Traction Control - Is TCS available (Y/N)
+
+Night Vision - Thermographic camera to increase a driver's perception in darkness (Y/N)
+
+Rollover Protection Bar - Is ROPS present (Y/N)
+
+Fog Lamps - Is fog lamps present(Y/N)
+
+Parking Aid - Senors to monitor nearby obstacles(Y/N)
+
+Tire Pressure Monitor - Y/N
+
+Back up Camera - Is reversing camera present (Y/N)
+
+Stability Control - Is ECS present (Y/N)
+
+Basic Miles/km - Warrany Kms
+
+Basic Years - Warranty years
+
+Corrosion Miles/km - Warranty against corrosion
+
+Corrosion Years - Warranty against corrosion in years
+
+Drivetrain Miles/Km - Warranty for drivetrain
+
+Drivetrain Years - Warranty for drivetrain in years
+
+Turning Diameter Curb to Curb(ft) -Diameter of the smallest circular turn by the car
+
+Front Wheel Material - Material in which wheel is made up of
+
+Front Tire Size - Width , Aspect ratio , Speed rating , Rim size
+
+Stabilizer Bar Diameter - Front (in) - Diameter of the front sway bar
+
+Roadside assistance in years - Roadside assistance provided in terms of years
+
+Roadside Assistance Miles/km - Roadside assistance provided in terms of ****
